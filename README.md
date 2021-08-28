@@ -10,3 +10,5 @@ Each file is named with the figure number from the above mentioned paper and a s
 The files contain time series data where column 1 is Time (s).
 
 The columns of the time series contained in Figure7_EnergyAbsorbed represent the energy absorbed in Joules at each wave period. Column 1 of the Data is for wave period T=3 (s), Column 2 for T=4 (s), and so on up to T=9 (s).
+
+Sphere_5m_WAMIT_data contains the data obtained from WAMIT for a Sphere of 5 (m) in diameter.
